@@ -4,5 +4,5 @@
 #lvgl v9.2.2 
 
 
-# 要将lvgl文件夹中的demos文件夹移动到同目录下的src文件夹中
+Move the demos folder from within the lvgl folder to the src folder in the same directory.
 
