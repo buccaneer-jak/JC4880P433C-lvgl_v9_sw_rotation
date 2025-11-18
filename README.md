@@ -1,5 +1,5 @@
-#此样例使用的屏幕是微雪的10.1寸屏幕，具体型号位：10.1-DSI-TOUCH-A
-# 请使用arduino_esp32_v3.2.1版本
+This example utilises a Guition 4.3-inch screen, model number: JC4880P433C
+Please use the Arduino ESP32 version 3.2.1.
 
 #lvgl v9.2.2 
 
